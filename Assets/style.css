@@ -1,0 +1,12 @@
+.projects{ 
+    border: solid 2px green;
+}
+
+#project_holder{ 
+    border: solid 2px red;
+    margin-bottom: 20px;
+}
+
+.row{
+    margin: 0px;
+}
