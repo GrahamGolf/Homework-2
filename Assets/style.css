@@ -1,12 +1,17 @@
-.projects{ 
+body {
+    background-color: rgb(22, 22, 22);
+}
+
+.projects { 
     border: solid 2px green;
 }
 
-#project_holder{ 
+#project_holder { 
     border: solid 2px red;
     margin-bottom: 20px;
 }
 
-.row{
+.row {
     margin: 0px;
 }
+
